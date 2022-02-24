@@ -5,7 +5,7 @@
 ## Deployed Application
 https://finance-tracker-woad.vercel.app/
 
-## Usage
+## Features
 Vanilla JavaScript application that allows users to
 - Keep track of income and expenses
 - Add new incomes and expenses

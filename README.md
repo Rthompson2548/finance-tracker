@@ -1,4 +1,4 @@
-# Finance-tracker
+# Finance Tracker
 
 ![expense-tracker-app-omg](https://user-images.githubusercontent.com/80596387/155621030-58df9e95-3fe2-4ac4-b381-9ad17336ad2c.PNG)
 
